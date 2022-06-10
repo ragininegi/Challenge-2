@@ -1,9 +1,6 @@
-# Project Title
-
-Loan Qualifier CLI
+## Loan Qualifier CLI
 
 This is a command-line interface application for matching the applicants with the qualifying loans. We need to add new features and enhancements to the loan qualifier application. This application records the inputs of user and match them with the loan qualifier criteria, based on which the user gets to see the list and details of qualifying loans. 
----
 
 ## Technologies
 
@@ -22,7 +19,6 @@ Before running the application first download the whole folder named "loan_quali
 pip install fire
 pip install questionary
 ```
----
 
 ## Usage
 
@@ -34,14 +30,14 @@ For questionary Enter a file path to a rate-sheet (.csv)? you can use file path 
 For questionary Enter a file path to save a qualifying loans to file (.csv)? Provide the file path where you want to save the output csv file.
 
 ![Code_screenshot](Images/Code_screenshot.png)
----
+
 
 ## Contributors
 
 Ragini Negi 
 Email : negiragini16@gmail.com 
 LinkedIN: https://www.linkedin.com/in/ragininegi/
----
+
 
 ## License
 Apache License
