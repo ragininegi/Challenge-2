@@ -7,8 +7,8 @@ This is a command-line interface application for matching the applicants with th
 Python 3.9.7
 It supports Python 3.7 and above.
 Installed the following libraries:
-questionary - For interactive user prompts and dialogs
-python-fire - For the command line interface, help page, and entry-point.
+* questionary - For interactive user prompts and dialogs
+* python-fire - For the command line interface, help page, and entry-point.
 
 
 ## Installation Guide
