@@ -34,9 +34,9 @@ For questionary Enter a file path to save a qualifying loans to file (.csv)? Pro
 
 ## Contributors
 
-Ragini Negi 
-Email : negiragini16@gmail.com 
-LinkedIN: https://www.linkedin.com/in/ragininegi/
+* Ragini Negi 
+* Email : negiragini16@gmail.com 
+* LinkedIN: https://www.linkedin.com/in/ragininegi/
 
 
 ## License
